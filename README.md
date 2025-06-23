@@ -32,7 +32,7 @@ This repository contains various data analysis and data science projects develop
   - Matplotlib
   - Seaborn
   - Scikit-learn
-- **Development Environment:** Jupyter Notebook / VS Code
+- **Development Environment:** Jupyter Notebook / VS Code / Goggle Colab
 - **Version Control:** Git & GitHub
 
 ---
